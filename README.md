@@ -1,5 +1,7 @@
 # Wandurlust
 This project report presents the development of WanderLust, a modern and user-friendly web application designed to facilitate travel accommodation discovery and booking. 
+
+
 🌍 WanderLust – MERN Travel Blog Website
 WanderLust is a full-stack travel blog platform built with the MERN stack (MongoDB, Express.js, React, Node.js) where users can explore, share, and review travel destinations. It provides an intuitive interface for browsing listings, reading reviews, and contributing personal travel experiences.
 
